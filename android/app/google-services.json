@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240009475098",
+    "project_id": "uk-care-home-template",
+    "storage_bucket": "uk-care-home-template.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240009475098:android:401bdfee4727a13b110da3",
+        "android_client_info": {
+          "package_name": "com.example.uk_care_home_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240009475098-ck71gkimikdis2kqtanui0m082rflo1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uk_care_home_template",
+            "certificate_hash": "35a7de7f844c9b3817d4f98afe7048aeb8437cef"
+          }
+        },
+        {
+          "client_id": "240009475098-ah1gij430vg6i4ie0sq4rsbv5efkqmlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGQIgpLmMCkHtPz5H7bfSkUpW_wltu78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240009475098-ah1gij430vg6i4ie0sq4rsbv5efkqmlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
