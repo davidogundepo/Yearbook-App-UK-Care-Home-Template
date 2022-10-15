@@ -1,4 +1,4 @@
-package com.example.uk_care_home_template
+package com.icdatinnovations.uk_care_home_template
 
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.android.SplashScreen

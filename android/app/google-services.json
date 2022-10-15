@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:240009475098:android:401bdfee4727a13b110da3",
         "android_client_info": {
-          "package_name": "com.example.uk_care_home_template"
+          "package_name": "com.icdatinnovations.uk_care_home_template"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "240009475098-ck71gkimikdis2kqtanui0m082rflo1n.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.uk_care_home_template",
+            "package_name": "com.icdatinnovations.uk_care_home_template",
             "certificate_hash": "35a7de7f844c9b3817d4f98afe7048aeb8437cef"
           }
         },

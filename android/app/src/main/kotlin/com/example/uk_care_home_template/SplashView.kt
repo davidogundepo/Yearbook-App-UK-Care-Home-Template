@@ -1,4 +1,4 @@
-package com.example.uk_care_home_template
+package com.icdatinnovations.uk_care_home_template
 
 
 import android.content.Context
